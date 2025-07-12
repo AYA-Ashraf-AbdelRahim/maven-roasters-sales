@@ -27,7 +27,7 @@ This project showcases a comprehensive sales analysis for a specialty coffee com
 
 ---
 
-## 📝 Technical Analysis Steps – Maven Roasters Sales
+## 📝 Technical Analysis Steps :
 
 1. **Business Objective**  
    Analyze sales data of a coffee Roasters over a 6-month period to understand performance patterns and provide recommendations for growth.
