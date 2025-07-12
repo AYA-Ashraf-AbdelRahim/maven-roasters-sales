@@ -27,9 +27,43 @@ This project showcases a comprehensive sales analysis for a specialty coffee com
 
 ---
 
+## 📝 Technical Analysis Steps – Maven Roasters Sales
+
+1. **Business Objective**  
+   Analyze sales data of a coffee company over a 6-month period to understand performance patterns and provide recommendations for growth.
+
+2. **Data Overview**  
+   - Raw data included: Order Date, Product, Sales Channel, Quantity, Revenue, Customer Type, Region.
+   - Format: Excel (.xlsx)
+
+3. **Data Cleaning (Excel)**  
+   - Removed duplicate entries and blank rows.
+   - Standardized column names and date formats.
+   - Created new columns: Total Revenue, Month Name, Category.
+   - Filtered out outliers in revenue and quantity.
+
+4. **Exploratory Analysis (Excel)**  
+   - Used pivot tables to analyze trends by month, product, region, and channel.
+   - Identified top-performing products and seasonal demand spikes.
+
+5. **Dashboard Creation (Power BI)**  
+   - Connected the cleaned Excel file to Power BI.
+   - Built visuals: Monthly sales trend, top products, sales by customer type, and total revenue KPIs.
+   - Used slicers for product, channel, and month filtering.
+
+6. **Insight Extraction**  
+   - December & January had peak sales.
+   - Cold Brew and Espresso Beans were top products.
+   - Loyalty customers had higher order value.
+
+7. **Final Delivery**  
+   - Created a PowerPoint presentation summarizing insights, KPIs, and recommendations.
+
+---
+
 ## 📁 Files Included:
 - Excel raw data and cleaning process.
-- Power BI dashboard (.pbix) or PDF export.
+- Power BI dashboard (.pbix) as image export in Presentation.
 - Presentation deck with findings and recommendations.
 
 ---
