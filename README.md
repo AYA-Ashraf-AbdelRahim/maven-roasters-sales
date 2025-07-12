@@ -33,7 +33,18 @@ This project showcases a comprehensive sales analysis for a specialty coffee com
    Analyze sales data of a coffee Roasters over a 6-month period to understand performance patterns and provide recommendations for growth.
 
 2. **Data Overview**  
-   - Raw data included: transaction_id, transaction_date, transaction_time, transaction_qty,	store_id, store_location,	product_id,	unit_price,	product_category,	product_type, product_detail
+   - Raw data included: -
+   - transaction_id
+   -  transaction_date
+   - transaction_time
+   -  transaction_qty
+   - store_id
+   -  store_location
+   - product_id
+   - 	unit_price
+   - product_category
+   - 	product_type
+   - product_detail
    - Format: Excel (.xlsx)
 
 3. **Data Cleaning (Excel)**  
