@@ -86,4 +86,4 @@ This analysis helped optimize product promotions and inventory planning for futu
 
 📫 **Contact**  
 - ayaashr61@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/aya-ashraf-/)
+- [LinkedIn](https://www.linkedin.com/in/aya-ashraf-)
